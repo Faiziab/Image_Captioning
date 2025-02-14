@@ -1,6 +1,6 @@
 # Visualizing the Unseen: Enhancing Image Accessibility through Image Captioning
 
-Welcome to the "Visualizing the Unseen" project! 📸🔍
+Welcome to the "Visualizing the Unseen" project! 📸🔍   Try the live application:([Live Demo](https://huggingface.co/spaces/FaiziK/ImageCaption))
 
 This repository houses the code and resources for our innovative project aimed at enhancing image accessibility through advanced image captioning techniques. By providing descriptive captions for images, we empower visually impaired individuals to perceive and engage with visual content in a more meaningful way.
 
